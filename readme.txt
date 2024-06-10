@@ -1,2 +1,2 @@
 readme
-edit by choah
+edit by ChoAhChoAh
